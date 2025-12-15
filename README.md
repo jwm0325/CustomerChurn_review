@@ -101,3 +101,6 @@
 
 * **XGBoost/LightGBM 도입:** 더 높은 예측 성능을 위해 부스팅 계열 모델 도입 검토.
 * **하이퍼파라미터 튜닝 자동화:** `GridSearchCV` 등을 활용하여 최적의 파라미터를 주기적으로 갱신하는 **MLOps 체계 구축**.
+
+---
+시연 영상 링크 : https://youtube.com/shorts/YIB0EfdCbVs?feature=share
